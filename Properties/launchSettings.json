@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "db_test_console_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--input sunrise.CR2",
+      "environmentVariables": {
+        "TEST_output": "fullmoon.jpg",
+        "test_two": "lumberjack",
+        "TEST_one": "20",
+        "TEST_pilot": "Sally"
+      }
+    }
+  }
+}
